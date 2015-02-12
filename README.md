@@ -1,2 +1,2 @@
-# Android Audio Record,Pin To Desk,Alarm Setting
-audio record,pin to desk,alarm setting
+# Android 滑动效果
+类似小米通话记录的滑动效果
