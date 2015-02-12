@@ -15,7 +15,6 @@ import android.widget.EditText;
 
 public class ClockAlarmActivity extends ActionBarActivity implements
 		OnClickListener {
-
 	private Button mStartAlarmBtn = null;
 	private EditText mAlarmEt = null;
 
