@@ -23,7 +23,7 @@ public class ClockAlarmActivity extends ActionBarActivity implements
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_alarm);
-		
+
 		initViews();
 	}
 
