@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="rightPadding" format="dimension"></attr>
+	<attr name="textSize" format="dimension"></attr>
+    <attr name="textColor" format="color"></attr>
+    
+    <declare-styleable name="SlidingTabLayout">
+        <attr name="textSize"></attr>
+        <attr name="textColor"></attr>
+        <attr name="indicatorType">
+            <enum name="circle" value="0"/>
+            <enum name="rectangle" value="1"/>
+            <enum name="triangle" value="2"/>
+        </attr>
+        <attr name="smoothScroll" format="boolean"></attr>
+        <attr name="indicatorColor" format="color"></attr>
+        <attr name="indicatorHeight" format="dimension"></attr>
+        <attr name="bottomBorderColor" format="color"></attr>
+        <attr name="bottomBorderHeight" format="dimension"></attr>
+        <attr name="dividerColor" format="color"></attr>
+    </declare-styleable>
+</resources>
