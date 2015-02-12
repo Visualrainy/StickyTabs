@@ -24,8 +24,8 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.example.lizhijun.stickytabs.fragments.ContactDetailBaseFragment;
-import com.example.lizhijun.stickytabs.fragments.ContactDetailFragment;
+import com.example.lizhijun.stickytabs.fragment.ContactDetailBaseFragment;
+import com.example.lizhijun.stickytabs.fragment.ContactDetailFragment;
 import com.example.lizhijun.stickytabs.R;
 import com.example.lizhijun.stickytabs.util.SystemUtils;
 import com.example.lizhijun.stickytabs.view.ContactContentView;

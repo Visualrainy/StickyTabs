@@ -1,4 +1,4 @@
-package com.example.lizhijun.stickytabs.fragments;
+package com.example.lizhijun.stickytabs.fragment;
 
 import android.view.View;
 
