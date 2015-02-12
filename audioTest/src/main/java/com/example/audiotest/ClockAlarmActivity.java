@@ -18,7 +18,7 @@ public class ClockAlarmActivity extends ActionBarActivity implements
 
 	private Button mStartAlarmBtn = null;
 	private EditText mAlarmEt = null;
-
+ 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
