@@ -1,0 +1,3 @@
+C:\Users\LiZhijun\Downloads\android_studio_workspace\Android\audioTest\build\intermediates\classes\debug
+C:\Users\LiZhijun\Downloads\android_studio_workspace\Android\audioTest\build\intermediates\pre-dexed\debug\classes-19541aa4935804b7a7405997a6fa4ff568c67958.jar
+C:\Users\LiZhijun\Downloads\android_studio_workspace\Android\audioTest\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b262a6810312e65d47321ed0aaef77a7686d7bab.jar
