@@ -1,4 +1,4 @@
-package com.example.lizhijun.stickytabs.Fragment;
+package com.example.lizhijun.stickytabs.fragment;
 
 import java.util.ArrayList;
 import java.util.HashMap;

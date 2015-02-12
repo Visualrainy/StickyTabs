@@ -1,4 +1,4 @@
-package com.example.lizhijun.stickytabs.Fragment;
+package com.example.lizhijun.stickytabs.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
