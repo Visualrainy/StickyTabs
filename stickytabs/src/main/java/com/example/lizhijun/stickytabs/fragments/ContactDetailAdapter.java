@@ -1,4 +1,4 @@
-package com.example.lizhijun.stickytabs.fragment;
+package com.example.lizhijun.stickytabs.fragments;
 
 import java.util.List;
 import java.util.Map;
