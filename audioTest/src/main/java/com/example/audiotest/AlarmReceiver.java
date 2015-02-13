@@ -18,7 +18,7 @@ public class AlarmReceiver extends BroadcastReceiver {
 				.getSystemService(android.content.Context.NOTIFICATION_SERVICE);
 		Intent playIntent = new Intent(context, MainActivity.class);
 		playIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-		
+
 		PendingIntent pendingIntent = PendingIntent.getActivity(context, 1,
 				playIntent, PendingIntent.FLAG_UPDATE_CURRENT);
 		NotificationCompat.Builder builder = new NotificationCompat.Builder(
@@ -30,5 +30,4 @@ public class AlarmReceiver extends BroadcastReceiver {
 				.setSubText("二级text");
 		manager.notify(1, builder.build());
 	}
-
 }
