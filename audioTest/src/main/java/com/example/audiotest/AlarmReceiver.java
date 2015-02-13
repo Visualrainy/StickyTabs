@@ -30,4 +30,5 @@ public class AlarmReceiver extends BroadcastReceiver {
 				.setSubText("二级text");
 		manager.notify(1, builder.build());
 	}
+
 }
